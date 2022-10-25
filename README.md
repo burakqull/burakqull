@@ -47,7 +47,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/burakqull/burakqull/blob/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
